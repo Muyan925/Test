@@ -1,0 +1,10 @@
+[90m= [39m[34;4mApp\Models\Post[39;24m {#6969
+    [34mid[39m: [35m1[39m,
+    [34mtitle[39m: "[32mMy First Post[39m",
+    [34mexcerpt[39m: "[32mI hope I can happy every day!!![39m",
+    [34mbody[39m: "[32mWishing you a day filled with joy and happiness! May your moments be sprinkled with laughter and your heart be light. In this journey called life, may the burdens be few, and may each step be a dance of delight. Let positivity be your guide, and may the sun of optimism shine brightly upon your path. May challenges be but fleeting clouds in the vast sky of your existence, and may the winds of contentment gently carry you forward. Here's to a day of smiles, togetherness, and the simple pleasures that make life truly beautiful. May your joy be contagious, and may each day bring you closer to a world where kindness reigns and worries fade away. Cheers to a day filled with sunshine and the warmth of happy moments![39m",
+    [34mcreated_at[39m: "[32m2023-11-29 10:34:58[39m",
+    [34mupdated_at[39m: "[32m2023-11-29 10:34:58[39m",
+    [34mpublished_at[39m: [36mnull[39m,
+  }
+
